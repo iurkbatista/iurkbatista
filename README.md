@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/iurkbatista/iurkbatista/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato:
 <div>
