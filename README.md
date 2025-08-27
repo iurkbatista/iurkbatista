@@ -12,12 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div>
-<a href="https://github.com/iurkbatista">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=iurkbatista&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+![iurkbatista's Stats](https://github-readme-stats.vercel.app/api?username=iurkbatista&theme=react&show_icons=true&hide_border=true&count_private=true)
+![iurkbatista's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## Tools and technologies
 <!--https://devicon.dev/-->
