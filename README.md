@@ -1,5 +1,5 @@
 # Hello 👋 
-## I'm **Iurk Batista**, an ambitious and enthusiastic software developer developer...
+## I'm Iurk Batista, an ambitious and enthusiastic software developer...
 
 ## 🔥 Github Stats
 ![iurkbatista's Stats](https://github-readme-stats.vercel.app/api?username=iurkbatista&theme=react&show_icons=true&hide_border=true&count_private=true)
