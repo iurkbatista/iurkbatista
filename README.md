@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+## Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## Contato:
 <div>
