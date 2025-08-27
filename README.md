@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/iurkbatista">
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=iurkbatista&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=iurkbatista&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Ferramentas e Tecnologias
+## Tools and technologies
 <!--https://devicon.dev/-->
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/> 
 
-## Contato:
+## Contact
 <div>
   <!--
     <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -33,3 +32,6 @@ Here are some ideas to get you started:
   -->  
   <a href="https://www.linkedin.com/in/iurkbatista" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+##Contribute
+Contributions are always welcome!
