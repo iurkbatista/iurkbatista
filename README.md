@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/iurkbatista">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=iurkbatista&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=iurkbatista&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iurkbatista&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<!--https://devicon.dev/-->
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/> 
 
 ## Contato:
 <div>
